@@ -10,7 +10,7 @@
 **Server:** PHP, SQL
 
 
-## View the Site
+## View the Site / Live
 
 [Lapcomme.ddns.net](https://lapcomme.ddns.net)
 
