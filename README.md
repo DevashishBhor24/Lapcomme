@@ -12,7 +12,7 @@
 
 ## View the Site / Live
 
-[Lapcomme.ddns.net](https://lapcomme.ddns.net)
+[Lapcomme.ddns.net](https://lapcommee.000webhostapp.com/)
 
 
 ## Authors
